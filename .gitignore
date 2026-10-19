@@ -1,0 +1,14 @@
+# Virtual Environments
+myenv/
+myvenv/
+venv/
+.venv/
+
+# Large Datasets / Zip
+*.zip
+*.csv
+ecommerce-dataset/
+
+# Cache Python
+__pycache__/
+.ipynb_checkpoints/
