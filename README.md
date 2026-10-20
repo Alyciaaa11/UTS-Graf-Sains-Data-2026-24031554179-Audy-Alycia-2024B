@@ -45,7 +45,7 @@ Sistem diisolasi ke dalam dua rentang waktu spesifik:
 
 ## Cara Melihat Preview Output Notebook
 
-Jika file `.ipynb` di GitHub mengalami kendala *rendering* akibat ukuran file dan output grafik yang besar, Anda dapat melihat hasil lengkapnya melalui opsi berikut:
+Jika file `02_Import_VSM_Similarity_Analytics.ipynb` di GitHub mengalami kendala *rendering* akibat ukuran file dan output grafik yang besar, Anda dapat melihat hasil lengkapnya melalui opsi berikut:
 
 1. **Prinjau HTML Online (Direkomendasikan):**  
    Buka file HTML ter-render secara utuh via HTMLPreview:  
