@@ -49,7 +49,7 @@ Jika file `.ipynb` di GitHub mengalami kendala *rendering* akibat ukuran file da
 
 1. **Prinjau HTML Online (Direkomendasikan):**  
    Buka file HTML ter-render secara utuh via HTMLPreview:  
-   👉 [**Buka Preview Notebook 02 Full Output (HTML)**](https://htmlpreview.github.io/?https://github.com/Alyciaaa11/UTS-Graf-Sains-Data-2026-24031554179-Audy-Alycia-2024B/blob/main/02_Import_VSM_Similarity_Analytics.html)
+   [**Buka Preview Notebook 02 Full Output (HTML)**](https://htmlpreview.github.io/?https://github.com/Alyciaaa11/UTS-Graf-Sains-Data-2026-24031554179-Audy-Alycia-2024B/blob/main/02_Import_VSM_Similarity_Analytics.html)
 
 2. **Membuka File HTML Lokal:**  
    Unduh file `02_Import_VSM_Similarity_Analytics.html` dari repositori ini dan buka langsung di web browser (Chrome / Edge / Firefox).
